@@ -8,6 +8,17 @@
 4. _Build the project using the `yarn build` command_
 5. _Start the web server using the `yarn preview` command. The app will be served at http://localhost:4173/._
 
+---
+
+ <details><summary><b>Screenshots</b></summary>    
+  
+<h3>Main</h3><img src="screenshots/gallery.png" ><hr>
+<h3>Post</h3><img src="screenshots/image.png"/><hr>
+<h3>Posts</h3><img src="screenshots/grid-gallery.png" />
+</details>
+
+---
+
 ### **Technology stack:**
 
 - _Vite_
