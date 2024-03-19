@@ -12,9 +12,9 @@
 
  <details><summary><b>Screenshots</b></summary>    
   
-<h3>Main</h3><img src="screenshots/gallery.png" ><hr>
-<h3>Post</h3><img src="screenshots/image.png"/><hr>
-<h3>Posts</h3><img src="screenshots/grid-gallery.png" />
+<h3>Gallery</h3><img src="screenshots/gallery.png" ><hr>
+<h3>Image</h3><img src="screenshots/image.png"/><hr>
+<h3>Grid Gallery</h3><img src="screenshots/grid-gallery.png" />
 </details>
 
 ---
