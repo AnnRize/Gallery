@@ -2,7 +2,7 @@
 
 ### **Start app**
 
-1. _Either fork or download the app and open the folder in the cli_
+1. _Fork or download the app and open the folder in the cli_
 2. _Install all dependencies using the `yarn` command_
 3. _Add dependence using the `yarn add sharp --ignore-engines -D` command_
 4. _Build the project using the `yarn build` command_
