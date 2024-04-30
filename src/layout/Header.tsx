@@ -6,7 +6,7 @@ export const Header = () => {
     <header className={style.header}>
       <ul>
         <li>
-          <Link to={"/Gallery/"}>Gallery</Link>
+          <Link to={import.meta.env.PROD ? "/Gallery/" : "/"}>Gallery</Link>
         </li>
         <li>
           <Link to={"grid"}>GridGallery</Link>
