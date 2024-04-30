@@ -13,7 +13,10 @@ export const Router = () => {
       <Routes>
         <Route path="*" element={<Navigate to="/" replace />} />
 
-        <Route element={<Layout />} path="/">
+        <Route
+          element={<Layout />}
+          path={import.meta.env.PROD ? "/Gallery/" : "/"}
+        >
           <Route index element={<DefaultGallery />} />
           <Route path="grid" element={<GridGallery />} />
         </Route>
