@@ -6,10 +6,10 @@ export const Header = () => {
     <header className={style.header}>
       <ul>
         <li>
-          <Link to={"/"}>Gallery</Link>
+          <Link to={"/Gallery/"}>Gallery</Link>
         </li>
         <li>
-          <Link to={"/grid"}>GridGallery</Link>
+          <Link to={"grid"}>GridGallery</Link>
         </li>
       </ul>
     </header>
