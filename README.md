@@ -8,7 +8,7 @@
 2. _Install all dependencies using the `yarn` command_
 3. _Add dependence using the `yarn add sharp --ignore-engines -D` command_
 4. _Build the project using the `yarn build` command_
-5. _Start the web server using the `yarn preview` command. The app will be served at http://localhost:4173/._
+5. _Start the web server using the `yarn preview` command. The app will be served at http://localhost:4173/Gallery/._
 
 ---
 
